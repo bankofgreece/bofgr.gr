@@ -1,0 +1,120 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="greecenationalaccount.ml" resolutions="1x" timestamp="1612779078518">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_b-gabarit.css" crc="440943875" ref="registration"/>
+    <file name="master_a-gabarit.css" crc="726481" ref="index"/>
+    <file name="master_c-gabarit.css" crc="129670670" ref="account"/>
+    <file name="account.css" crc="339337380" ref="account"/>
+    <file name="registration.css" crc="3854005404" ref="registration"/>
+    <file name="index.css" crc="424980436" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:registration:account"/>
+    <file name="museutils.js" crc="4216313831" ref="index:registration:account"/>
+    <file name="whatinput.js" crc="86476730" ref="index:registration:account"/>
+    <file name="museconfig.js" crc="474374037" ref="index:registration:account"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:registration:account"/>
+    <file name="require.js" crc="3951022091" ref="index:registration:account"/>
+    <file name="webpro.js" crc="4143865194" ref="registration"/>
+    <file name="form_check.php" crc="154010282" ref="registration"/>
+    <file name="form_throttle.php" crc="266437015" ref="registration"/>
+    <file name="form_process.php" crc="512629711" ref="registration"/>
+    <file name="form-u1785.php" crc="455932296" ref="registration"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_en.png" crc="4175846617" seo="true" ref="index:registration:account">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="ss.jpg" crc="376383207" seo="true" ref="index:registration:account">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="sss.png" crc="269936285" seo="true" ref="index:registration:account">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="ssss.jpg" crc="287595123" seo="true" ref="index:registration:account">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration" alt=""/>
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="960x535_internet_bankig-crop-u590.jpg" crc="130413847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i_bank_pass_64x64.jpg" crc="491160481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i_bank_64x64.jpg" crc="313500341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact_icon.png" crc="439825093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asfaleia_synallagon_300x100_en.jpg" crc="130606642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="virtual_prepaid_card_home_page_en.jpg" crc="4244028793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="debit_mastercard_en_300x100 (1).jpg" crc="450013057" seo="true" ref="index:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="i_bank_alert_300x100_en.jpg" crc="4214591065" seo="true" ref="index:registration">
+      <caption webpage="index" alt=""/>
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="960x535_sitebanner_propombos_en-crop-u734.jpg" crc="186766183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telephone-cellulaire-intelligent-banque.jpg" crc="400391080" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="block_viber_otp_300x100.jpg" crc="3773149046" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="033_idiotes_banner_private_banking_el_268x109_15102012.jpg" crc="3793117917" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="u1861-27.png" crc="3815423497" ref="registration"/>
+    <file name="private_banking_innerpage_en (1)-crop-u1838.jpg" crc="118616230" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="10676800.jpg" crc="3864786357" seo="true" ref="account">
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="969_logo_v1_165x150.jpg" crc="3908908862" seo="true" ref="account">
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="icon_sprite27.png" crc="245612879" seo="true" ref="account">
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="icon_sprite28.png" crc="435745664" seo="true" ref="account">
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="prosopikos_symboulos_en.png" crc="23192159" seo="true" ref="account">
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="u1909-41.png" crc="513451740" ref="account"/>
+    <file name="premium_banking_innerpage_en-crop-u1988.jpg" crc="64673252" seo="true" ref="account">
+      <caption webpage="account" alt=""/>
+    </file>
+    <file name="u2652-4.png" crc="4228952735" ref="registration"/>
+    <file name="i_bank_pass_64x642.jpg" crc="491160481" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="icon_sprite24.png" crc="536120170" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+    <file name="icon_sprite11.png" crc="4226027019" seo="true" ref="registration">
+      <caption webpage="registration" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4142736512" seo="true" mt="1612778841005" redirect="true"/>
+  <file name="registration.html" crc="3992969303" seo="true" mt="1612778789811" redirect="true"/>
+  <file name="account.html" crc="9759756" seo="true" mt="1612778856062" redirect="true"/>
+</manifest>
